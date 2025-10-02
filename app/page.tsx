@@ -1,5 +1,5 @@
 import React from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useRouter } from 'next/navigation';
 import { Button } from '@/components/ui/button';
 import { ArrowRight, TrendingUp, Shield, Clock, Users, DollarSign, BarChart3, Smartphone, Award, CheckCircle } from 'lucide-react';
 
